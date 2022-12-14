@@ -1,0 +1,37 @@
+<template>
+    <div style="margin-top: 240px;">
+        <p>Hi there! We are Cat & Leon, originating from the UK .</p>
+        <p>This is our personal, ‘warts and all’ travel blog, with a little foodie blogging too, just because we love food & drink!! I am hoping to organise all our past photos and memories into here eventually, but one step at a time eh.</p>
+        <p>This is a site primarily for us to document our travels/ food/ life experience, so we can look back on the memories, and all the little things that might have been forgotten otherwise. It is a continual work in progress, and will no doubt evolve as we do.</p>
+        <p>Whether you enjoy reading along with us, or if you are looking for ideas, or if you just like looking at the photos, a warm welcome.</p>
+        <p><b>How it started:</b> Leon very hastily first created the ‘Cat & Leon’s World Tour’ blog to document our trip around the world during a 2 month break from work in November 2017. The original purpose was to capture our journey of selling up the house, leaving the jobs, and going on a journey around the World for a couple of months, while also allowing friends and family to keep track of us, and join in with our adventure. We have enjoyed reading back our blogs so much, that we decided we needed a site that we could encompass all our travels and holidays, so we have plenty of memories to reminisce over in our years to come. Leon has also come a long way with his web development skills, and wanted to re-design and lay out the website to work more efficiently with the latest languages and frameworks he has been teaching himself with Udemy, and also learning with more recent employment opportunities.</p>
+        <p>The original blog archives were in PHP with no framework, & more rudimentary, which are in the process of being fully added (I’m up to Hawaii!).</p>
+        <p><b>So… about us!</b> The first thing most people would associate with us is music! It has always been entwined within our relationship and probably always will. We met at a music school, we have always enjoyed live music festivals / gigs together and have played in several local bands.</p>
+        <p>Our story leading up to the ‘World Tour’: There were several catalysts for taking the plunge and selling 90% of our belongings. The first was a chat with Leon’s parents over dinner, where they told us about their travels around Europe (before Leon and his sister, were born). We were in awe and just a teensy bit jealous, and realised we wanted to be able to experience these rich and lasting moments that can shape and define your very being. The additional points that pushed us towards making this move were, that we had sold our house and ready to move into a house in the countryside, but started having doubts about being even more financially burdened. An experience over owning stuff has always been a strong belief for both of us. Also, there were some unfortunate and sad circumstances with friends and ex-colleagues leading to a sudden realisation that nothing should be taken for granted. That ideal retirement is not guaranteed! We had good advice and guidance from deep conversations with a ‘wise old goat’. He told us to ‘LIVE!’. What are we waiting for? Cat felt it was a now of never moment, being mortgage free, and no dependents or animals at that time.</p>
+        <p>After some reassurance, Leon came round to the idea and became more amenable to the adventure, with a compromise of two months, and see how we go from there. We decided this would be a good way to test our spirits and open ourselves to opportunity. Leon had to give up his job (but would later be told the department was all made redundant, so dodged a bit of a bullet!), and Cat’s workplace kept the post open for 2 months, as Christmas time is quiet in Opticians, and they had some reliable self-employed/ part time staff who were willing to take on some extra hours. We were very thankful of being able to go, and still have at least 1 job to come back to. Although nothing could have prepared Cat for the changes that would take place while away, and ended up parting ways with that company in May 2018 anyhow! But all for a reason.</p>
+        <p>Cat’s parents kindly took us into their home. That, we are super grateful for. To be able to take a leap into the unknown, but also having a safety net of a roof over our heads, and a place to stash a few choice possessions was a very fortunate situation. We also joined a website called ‘trusted house sitters’. This was to get an insight into other people’s way of living, know what it is like to live in different areas, and to educate us better in our future decisions when choosing a place to call home.</p>
+        <p>We wrote our little individual blurbs about each other back in Nov 2017 for the original website, which I thought would be nice to keep:</p>
+        <p>‘This is an introduction to my lovely husband Leon; he is a very kind and humble soul and true gentleman (a credit to his wonderful & supportive parents, Jackie & Andy, and his beloved Grandparents, who I know will be just as proud of him). He is truly the most talented musician I have had the pleasure to listen to & play with and also can be as stubborn as a mule! Yes, I am talking about your use of indicator ‘logic’ on roundabouts! I am so very proud that he has taken the leap to become a Web Developer and pushed himself further than he probably thought he was ever capable of. I have really seen him blossom since learning to drive (better late than never eh! Pot-kettle hehe). May we continue to share wonderful memories and moments together for the rest of our lives. THANK YOU for agreeing to come on the journey of my dreams. ‘</p>
+        <p>‘Ok, so I’m not as articulate as my beautiful wife, but here we go. Cat is caring, selfless, tenacious, intelligent and crazy good fun to be around. She inspires me, pushes me and keeps me on my toes on a daily basis. Without Cat, I would not have got into Web Development and certainly would not have learnt to drive this year. Cat is super driven to do whatever she wants. She achieved incredible results in her Dispensing Optician qualification (oh yeah, can we mention Cat’s letters FBDO QTLS) and is incredible at her job. That’s another thing, and I need to get a hang of this. If Cat has an idea, (teaching Optics in London, teaching maths in the devil’s bumhole that is Milton Keynes, or nursery nursing) she will just do it, nothing gets in her way and she is awesome! During our most recent holiday (at time of writing, Tenerife), we had issues with the accommodation being 10 miles from the location given, we rolled with the punches and got stuff sorted in searing heat – with little sweat – I know this journey will have its craziness, but I know we’ll smash it together! … Onwards and upwards here’s to the experiences to come up! One last thing we would both like to say is thank-you to our amazing friends and family who have been so encouraging & supportive.</p>
+        <p>What a journey it has been since! Phew! And here is to making many more memories (and blogging them!)… I wonder what will happen next?</p>
+    </div>
+</template>
+
+<script>
+export default {
+    data: () => ({
+      parentCats: [],
+      childCats: [],
+      drawer: false,
+      posts: [],
+    }),
+
+      mounted() {
+        
+      },
+
+      methods: {
+      }
+  }
+
+</script>
